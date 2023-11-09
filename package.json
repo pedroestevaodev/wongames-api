@@ -15,7 +15,7 @@
     "@strapi/plugin-graphql": "^4.15.0",
     "@strapi/plugin-i18n": "4.15.0",
     "@strapi/plugin-users-permissions": "4.15.0",
-    "@strapi/strapi": "4.15.0",
+    "@strapi/strapi": "4.15.2",
     "mysql": "2.18.1",
     "patch-package": "^8.0.0"
   },
