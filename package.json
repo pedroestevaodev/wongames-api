@@ -14,7 +14,7 @@
     "@ckeditor/strapi-plugin-ckeditor": "^0.0.10",
     "@strapi/plugin-graphql": "^4.15.5",
     "@strapi/plugin-i18n": "4.15.5",
-    "@strapi/plugin-users-permissions": "4.15.5",
+    "@strapi/plugin-users-permissions": "4.16.2",
     "@strapi/strapi": "4.15.0",
     "mysql": "2.18.1",
     "patch-package": "^8.0.0"
