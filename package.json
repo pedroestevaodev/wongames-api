@@ -11,7 +11,7 @@
     "postinstall": "patch-package"
   },
   "dependencies": {
-    "@ckeditor/strapi-plugin-ckeditor": "^0.0.13",
+    "@ckeditor/strapi-plugin-ckeditor": "^1.0.0",
     "@strapi/plugin-cloud": "^4.25.11",
     "@strapi/plugin-graphql": "^4.25.11",
     "@strapi/plugin-i18n": "^4.25.11",
