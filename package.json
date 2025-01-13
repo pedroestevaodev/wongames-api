@@ -10,7 +10,7 @@
 		"strapi": "strapi"
 	},
 	"dependencies": {
-		"@ckeditor/strapi-plugin-ckeditor": "^1.0.2",
+		"@ckeditor/strapi-plugin-ckeditor": "^1.1.0",
 		"@strapi/plugin-cloud": "5.7.0",
 		"@strapi/plugin-graphql": "^5.7.0",
 		"@strapi/plugin-users-permissions": "5.7.0",
